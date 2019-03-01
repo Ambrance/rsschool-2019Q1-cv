@@ -4,13 +4,26 @@ My contacts:
 Tel: +375 29 803 XX XX (mts)  
 E-mail: ambrance@mail.ru  
 vk/telegram/discord nickname: Ambrance  
-3. Summary 
+ Summary:
+   I'm interested in frontend for about last 3 years. At first it was just a hobby. Now I would like to get my professional skills in this area. I know that it takes from me to study hard, but I'm ready.
 
-4. Skills (например: языки программирования, фреймворки, методологии, системы контроля версий, тулы...)
-5. Примеры кода (по возможности СВЕЖИЕ)
-6. Опыт (Junior-у имеет смысл указать весь опыт: тестовые задания, проекты с курсов,
-фрилансовые проекты – все, где он применял вышеупомянутые скилы. 
-Круто, если это будет со ссылками на код)
-7. Образование (в т.ч. курсы, семинары, лекции, онлайн-обучение)
+ Technical Skills:
+   HTML/CSS(SCSS)
+   JS(basic knowledge)
+   Tools:
+   linux (terminal)
+   Git, Gulp
+   PS, Avocode
+   Atom, VSCode
+ Code examples:
+   https://github.com/Ambrance/Cakes Deployed: https://ambrance.github.io/Cakes/
+   https://github.com/Ambrance/Velox Deployed: https://ambrance.github.io/Velox/
+ I have no experience in IT except for educational projects and experiments in sandboxes. 
+   My codepen account: https://codepen.io/IneSSka
+   My repl.it account: https://repl.it/@Ambrance
+ Education:
+   codecademy.com (html, css), htmlacademy.ru (html, css, js)
+   edx.org: CS50 - Introduction to Computer Science
 
-8. English level: A2 (pre intermediate) 
+ I study English from school to the present. My current english level is A2 (pre intermediate). 
+My duolingo account: https://www.duolingo.com/Ambrance
