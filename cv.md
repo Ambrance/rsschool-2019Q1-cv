@@ -9,13 +9,13 @@ vk/telegram/discord **nickname:** Ambrance
 
 ---
 
- ### Summary:
+### Summary:
  
-   I'm interested in frontend for about last 3 years. At first it was just a hobby. Now I would like to get my professional skills in this area. I know that it takes from me to study hard, but I'm ready.
+   I'm interested in frontend for about last 3 years. At first it was just a hobby. Now I would like to get my professional skills in this area. I know that it takes from me to study hard, but I'm ready.  
 
 ---
 
- ### Technical Skills:
+### Technical Skills:
 
    - HTML/CSS(SCSS)
    - JS(basic knowledge)  
@@ -26,7 +26,7 @@ vk/telegram/discord **nickname:** Ambrance
      * Atom, VSCode  
 
  --- 
- ### Code examples:
+### Code examples:
 
    [https://github.com/Ambrance/Cakes](https://github.com/Ambrance/Cakes) => [Deployed](https://ambrance.github.io/Cakes/)  
    [https://github.com/Ambrance/Velox](https://github.com/Ambrance/Velox) => [Deployed](https://ambrance.github.io/Velox/)  
@@ -37,7 +37,7 @@ vk/telegram/discord **nickname:** Ambrance
    My replIt account: [https://repl.it/@Ambrance](https://repl.it/@Ambrance)
 
 ---
- ### Education:
+### Education:
 
    * Codecademy (html, css)  
    * HTML Academy (html, css, js)  
