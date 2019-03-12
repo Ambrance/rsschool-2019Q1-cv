@@ -99,4 +99,13 @@ body {
 .project-link {
     margin-right: 20px;
 }
+.article-footer {
+    background-color: #18192E;
+}
+    
+.copyright {
+    font-size: 13px;
+    color: #D1F3FF;
+    text-align: center;
+}
  
