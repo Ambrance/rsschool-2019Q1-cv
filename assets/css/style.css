@@ -1,0 +1,102 @@
+body {
+    background: repeating-linear-gradient(-45deg, transparent, transparent 1em, rgba(25, 55, 90, 0.4) 0, rgba(25, 55, 90, 0.1) 2em, transparent 0, transparent 1em, rgba(25, 55, 90, 0.3) 0, rgba(25, 55, 90, 0.2) 4em, transparent 0, transparent 1em, rgba(72, 112, 163, 0.6) 0, rgba(72, 112, 163, 0.2) 2em), 
+                repeating-linear-gradient(45deg, transparent, transparent 1em, rgba(25, 55, 90, 0.4) 0, rgba(25, 55, 90, 0.1) 2em, transparent 0, transparent 1em, rgba(25, 55, 90, 0.3) 0, rgba(25, 55, 90, 0.2) 4em, transparent 0, transparent 1em, rgba(72, 112, 163, 0.4) 0, rgba(72, 112, 163, 0.1) 2em), #FFF;
+    background-attachment: fixed;
+    height: 100%;
+    color: #010816;
+    line-height: 1.5;
+}
+.container {
+    max-width: 1024px;
+    margin: 120px auto;
+    background-color: #D1F3FF;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, .3),
+            -23px 0 20px -23px rgba(0, 0, 0, .6),
+            23px 0 20px -23px rgba(0, 0, 0, .6),
+            inset 0 0 40px rgba(0, 0, 0, .1);
+    display: flex;
+    flex-direction: column;
+
+}
+.content-wrap {
+    padding-top: 50px;
+    display: flex;
+}
+.avatar {
+    width: 250px;
+    height: 200px;
+    transform: rotate(120deg);
+    overflow: hidden;
+    margin: auto;
+    position: relative;
+    top: -50px;
+}
+
+.avatar-inner {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    transform: rotate(-60deg);
+}
+  
+.avatar img {
+    width: 100%;
+    height: 100%;
+    transform: rotate(-60deg);
+}
+
+.quote blockquote {
+    max-width: 700px;
+    margin: 8px auto;
+    padding: 5px 65px;
+    box-sizing: border-box;
+    text-align: center;
+    border: solid #5A737E;
+    border-width: 10px 0;
+}
+.quote .text-quote {
+    margin: 0;
+    line-height: 2.5;
+}
+.quote cite {
+    text-align: right;
+    display: block;
+    margin-top: 15px;
+}
+.personal-info {
+    background-color: #4870A3;
+    padding: 50px;
+    box-sizing: border-box;
+    width: 40%;
+}
+.about {
+    width: 60%;
+    box-sizing: border-box;
+    padding: 50px;
+}
+.article-heading {
+    font-size: 30px;
+    margin: 10px 0;
+}
+.section-title {
+    margin: 15px 0;
+}
+.section-content {
+    margin: 0;
+    margin-bottom: 20px;
+}
+.contacts a {
+    display: block;
+    color: inherit;
+}
+.contacts .icon {
+    margin-right: 15px;
+}
+.project-example {
+    display: block;
+    margin-bottom: 25px;
+}
+.project-link {
+    margin-right: 20px;
+}
+ 
